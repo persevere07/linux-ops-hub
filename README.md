@@ -1,9 +1,6 @@
-# LinuxOpsHub — Linux Server Management & Automation
+# LinuxOpsHub — Linux Server Management
 
 ## About the Project
-
-
-
 LinuxOpsHub is a hands-on Linux server administration and automation
 project designed to develop practical Linux system administration,
 Bash scripting, monitoring, troubleshooting, and DevOps skills.
